@@ -18,4 +18,3 @@ while True:
         nothing = str(int(nothing)/2)
     else:
         break
-    

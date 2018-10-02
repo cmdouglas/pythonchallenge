@@ -55,4 +55,3 @@ draw.line(points_from_coords(coords2), fill="black", width=2)
 
     
 image.show()
-    

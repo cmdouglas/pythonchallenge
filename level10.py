@@ -21,6 +21,3 @@ for i in range(30):
     message = say_what_you_see(message)
     
 print(len(message))
-            
-        
-        
