@@ -12,6 +12,6 @@ points = [
 
 #print(points[:20])
 
-draw.point(points, 'cyan')
+draw.point(points, 'white')
 image.show()
         
